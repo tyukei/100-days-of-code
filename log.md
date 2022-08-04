@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 1: Aug 4th, 2022 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 1 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>Today&#39;s Progress: study about RecyclerView in kotlin.<br>Thoughts: I found good youtube one.</p>&mdash; 中継 (@MNPBy6ixwomVqYk) <a href="https://twitter.com/MNPBy6ixwomVqYk/status/1555206013963612165?ref_src=twsrc%5Etfw">August 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
