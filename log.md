@@ -2,7 +2,6 @@
 
 ### Day 1: Aug 4th, 2022 
 
-[https://tyukei.github.io/10DsofCode.github.io/1st/1st.html](https://tyukei.github.io/10DsofCode.github.io/1st/1st.html)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 1 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>Today&#39;s Progress: study about RecyclerView in kotlin.<br>Thoughts: I found good youtube one.</p>&mdash; 中継 (@MNPBy6ixwomVqYk) <a href="https://twitter.com/MNPBy6ixwomVqYk/status/1555206013963612165?ref_src=twsrc%5Etfw">August 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
